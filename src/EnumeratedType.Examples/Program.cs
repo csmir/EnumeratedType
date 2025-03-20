@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using EnumeratedType.Examples;
-using System.ComponentModel;
+﻿using EnumeratedType.Examples;
 
 Console.WriteLine("Hello, World!");
 
