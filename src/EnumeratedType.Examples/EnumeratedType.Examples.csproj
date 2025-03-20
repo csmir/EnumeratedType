@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\EnumeratedType\EnumeratedType.csproj" />
+    <ProjectReference Include="..\EnumeratedType\EnumeratedType.csproj" />
   </ItemGroup>
 
 </Project>

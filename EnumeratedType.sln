@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratedType", "EnumeratedType\EnumeratedType.csproj", "{503C8D7D-4DCA-47C3-A14E-2A9C6EC6CBC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratedType", "src\EnumeratedType\EnumeratedType.csproj", "{503C8D7D-4DCA-47C3-A14E-2A9C6EC6CBC4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratedType.Examples", "src\EnumeratedType.Examples\EnumeratedType.Examples.csproj", "{374EA985-9F72-4EB3-9755-F5987B142F05}"
 EndProject
