@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-namespace System.ComponentModel
+namespace System
 {
     public static class EnumeratedTypeExtensions
     {

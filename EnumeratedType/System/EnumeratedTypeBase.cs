@@ -1,4 +1,4 @@
-﻿namespace System.ComponentModel
+﻿namespace System
 {
     /// <summary>
     ///     Represents a field in an enumeration, providing access to the attributes of the specified field.

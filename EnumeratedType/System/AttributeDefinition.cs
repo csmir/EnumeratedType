@@ -36,7 +36,7 @@
         /// <summary>
         ///     Gets whether the attribute is defined.
         /// </summary>
-        public readonly bool IsDefined 
+        public readonly bool IsDefined
             => selector().Item1 is not null;
 
         /// <summary>
